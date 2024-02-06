@@ -5,7 +5,6 @@
 - 🤔 I’m looking for my future
   <br>
 - 📫 How to reach me:
-  <br>
   <br> Website: https://jingyiwu-codespace.github.io/
   <br> Email: w5jingyi@gmail.com
 
