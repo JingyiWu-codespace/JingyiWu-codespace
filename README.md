@@ -1,12 +1,11 @@
 ### Hi there 👋 I am Jingyi(Jennie)Wu
 
-- 🌱 I’m currently learning CS in VUB
-  <br>
-- 🤔 I’m looking for my future
-  <br>
+
 - 📫 How to reach me:
-  <br> Website: https://jingyiwu-codespace.github.io/
-  <br> Email: w5jingyi@gmail.com
+  <br>
+  <br> 🕸️ Website: https://jingyiwu-codespace.github.io/
+  <br>
+  <br> 📮 Email:   w5jingyi@gmail.com
 
 <!--
 **JingyiWu-codespace/JingyiWu-codespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
