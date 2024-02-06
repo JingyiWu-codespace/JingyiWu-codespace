@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS in VUB
 - 🤔 I’m looking for my future
 - 📫 How to reach me:
-  Website: https://jingyiwu-codespace.github.io/
+  <br> Website: https://jingyiwu-codespace.github.io/
   <br> Email: w5jingyi@gmail.com
 
 <!--
