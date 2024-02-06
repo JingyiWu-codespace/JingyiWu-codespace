@@ -4,7 +4,7 @@
 - 🤔 I’m looking for my future
 - 📫 How to reach me:
   Website: https://jingyiwu-codespace.github.io/
-  Email: w5jingyi@gmail.com
+  <br> Email: w5jingyi@gmail.com
 
 <!--
 **JingyiWu-codespace/JingyiWu-codespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
